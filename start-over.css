@@ -120,6 +120,10 @@ a:hover {
 			text-decoration: underline;
 			}
 
+a.contact:visited {
+        color:white;
+}
+
 .credits {
     position: relative;
     left:10%;
