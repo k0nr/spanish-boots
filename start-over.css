@@ -43,8 +43,8 @@ font-size:30px;
 	  position: fixed;
     bottom: 0;
 	right: 0;
-	border: 10px solid black;
     width: 200px;
+    background-color: rgba(0,0,0,0);
     }
     
  #playtitles {
@@ -52,7 +52,8 @@ font-size:30px;
 		left:5%;
 		width:80%;
 		text-align:left;
-        font-size: 3vh;
+        font-size: 3vmin;
+        height:100vh;
 		}
     
 body {

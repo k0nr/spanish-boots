@@ -4,7 +4,7 @@
             
 			body {
             background-color: black;
-            font-family: 'Libre Baskerville', serif;
+            font-family: 'Sorts Mill Goudy', serif;
 			color:white;
             cursor: url('images/cursor.cur'), default;
 
@@ -12,12 +12,11 @@
 			}
 		
 				a:link {
-			color:#47f7b0;
-            text-decoration: none;
+			color:white;
 			}
 			
 			a:visited {
-			color:#47f7b0;
+			color: white;
 			}
 			
 			a:hover {
@@ -33,9 +32,9 @@
 		}
 		
 	#menu {
-	font-family: 'Share Tech Mono', monospace;
 	  position: fixed;
-    background-color:  #510051;
+    background-color:  black;
+    color: white;
     text-align:center;
 	bottom: 0;
 	right: 0;
@@ -49,7 +48,7 @@
     bottom: 0;
     right: 260px;
     text-align: center;
-    font-family: 'Share Tech Mono', monospace;
+    font-family: 'Sorts Mill Goudy', monospace;
     font-size: 12px;
     background-color: black;
     color: white;
@@ -57,7 +56,6 @@
     }
     
     .title {
-        font-family: 'Share Tech Mono', monospace;
 		text-align: center;
 		font-weight: bold;
 		font-size: 28px;
